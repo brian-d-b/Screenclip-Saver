@@ -1,2 +1,3 @@
 # Screenclip-Saver
-Simply calls 
+
+Opens Microsoft's Snip n Sketch, and saves the image from clipboard to the Screenshots folder.
